@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World from Kunal ! This should auto-refresh.
+          I was changed in feature branch.
         </p>
         <a
           className="App-link"
